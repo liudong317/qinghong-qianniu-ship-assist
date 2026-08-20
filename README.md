@@ -10,13 +10,13 @@
 |------|------|
 | [`windows/`](windows/) | Windows 源码与 `build.ps1` |
 | [`mac/`](mac/) | macOS 源码、`build.sh`、[安装说明](mac/Mac安装说明.md) |
-| [`releases/`](releases/) | 可直接分发的安装包 |
 
 ## 下载安装包
 
-- Windows：[`releases/晴红千牛发货助手.exe`](releases/晴红千牛发货助手.exe)
-- macOS：[`releases/晴红千牛发货助手-macOS.app.zip`](releases/晴红千牛发货助手-macOS.app.zip)  
-  解压后双击 `.app`；若提示无法验证开发者，见 [`mac/Mac安装说明.md`](mac/Mac安装说明.md)
+请到本仓库 **[Releases](https://github.com/liudong317/qinghong-qianniu-ship-assist/releases)** 下载：
+
+- Windows：`QinghongQianniu-Windows.exe`
+- macOS：`QinghongQianniu-macOS.app.zip`（解压后双击；若无法打开见 [Mac 安装说明](mac/Mac安装说明.md)）
 
 ## 版本
 
