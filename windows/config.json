@@ -1,0 +1,30 @@
+{
+  "keywords": ["驿站", "工商局", "质检局"],
+  "keyword_mode": "contains",
+  "extract_order_no_to_d": false,
+  "record_separator": "auto",
+  "custom_separator": "",
+  "keyword_scan": {
+    "name": true,
+    "address": true,
+    "phone": false,
+    "remark": false
+  },
+  "highlight_colors": {
+    "keyword_hit": "#FF4444",
+    "parse_warn": "#FFFF99"
+  },
+  "font_sizes": {
+    "input_left": 14,
+    "table_right": 13
+  },
+  "ai": {
+    "enabled": true,
+    "base_url": "https://www.qinghong.tech/v1",
+    "api_key": "",
+    "model": "gpt-4o-mini",
+    "system_prompt": "",
+    "register_url": "https://www.qinghong.tech/",
+    "docs_url": "https://qinghongkeji.apifox.cn/"
+  }
+}
